@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="https://github.com/vbrazo/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=vbrazo">
+</a>
+
+
 ### - ⚡ My history:
 First of all, I love writing Code. Ever since college when I taught myself iOS Development in Swift for my startup Idea. 
 Before that, I had my first contact with Web Development, still in college, with Ruby on Rails when I was trying to create my first startup, it was an Airbnb for exchange students. And then I took a hiatus from technology and lived in Indonesia for 2 months to teach English for primary school students during my college vacation which it was arranged by AIESEC.
