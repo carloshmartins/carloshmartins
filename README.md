@@ -16,7 +16,7 @@ Nowadays, I work as an iOS Engineer at the biggest mediaTech company in LATAM ca
 
 Even when I leave my office, I tend to continue writing code in iOS and attend/co-organize Cocoaheads Meetups. I try to help other people's journey into iOS Development by opening pull request; sharing tips and experience. I had given some tech talk about: Mobile Scalability & best practices for generic modules.
 
-### - 🌱 I’m currently learning, such as: 
+### - 🌱 I’m currently learning: 
 1) Languages: Swift & Objective-C
 2) Topics: Mobile Machine Learning, Android Development, Mobile Product Scalability
 3) Mobile Topics: Data Structure/Algorithms, Clean Code, ViewCode and Testing.
