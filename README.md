@@ -15,9 +15,10 @@ My second contact was a mid-level position at a big size consultant company and 
 Nowadays, I work as an iOS Engineer at Globo. We have a responsibility of maintaining iOS modules shared with the entire company's main apps by using Cocoapods.
 
 ### - 🌱 I’m currently learning: 
-1) Languages: Swift
-2) Topics: Mobile Machine Learning, Android Development, Mobile Product Scalability
-3) Mobile Topics: Data Structure/Algorithms, Clean Code, ViewCode and Testing.
+
+Software Engineering:
+- Data Structure & Algorithm https://github.com/carloshmartins/Swift-Data-Structure-Algorithm
+
 
 ### - 📫 How to reach me:
 Github: https://github.com/carloshmartins
