@@ -37,11 +37,6 @@ Release Date:
 
 - July in App Store
 
-
-🧰 Composable UIKit:
-
-- https://github.com/users/carloshmartins/projects/1
-
 ### - 📫 How to reach me:
 Github: https://github.com/carloshmartins
 
