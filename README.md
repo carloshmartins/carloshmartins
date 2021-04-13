@@ -17,13 +17,14 @@ The Player's ever-evolving plugin-based architecture provides a lot of opportuni
 Software Engineering:
 - Data Structure & Algorithm https://github.com/carloshmartins/Swift-Data-Structure-Algorithm
 
-### - 🕹 My projects:
+### - 🕹 My SPM projects:
 
 Utilities:
 https://github.com/carloshmartins/CHUtilities
 
 Productivity:
 https://github.com/carloshmartins/CHViewCodable
+https://github.com/carloshmartins/CHCoordinator
 
 ### - 🧱 I’m currently building:
 
@@ -33,9 +34,7 @@ iOS app which consist of "An IMDB for Anime, Music, Cinema & Movies"
 
 Release Date:
 
-- July in App Store
+- On July in App Store
 
 ### - 📫 How to reach me:
-Github: https://github.com/carloshmartins
-
 email: juliaomartinsch@gmail.com 
