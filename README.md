@@ -10,7 +10,7 @@
 * 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/)
 * 🌎 Currently at [Globo](https://github.com/globoi)
 * 📱 Exodia: Making an iOS app which consist of "An IMDB for Anime, Music, Cinema & TV Shows"
-* 💻 Loves publishing [open source software on GitHub](https://github.com/TimOliver?tab=repositories&type=source).
+* 💻 Loves publishing [open source software on GitHub]. You can watch below.
 * 🇧🇷 From [Rio de Janeiro]
 * 🎮 Loves playing games.
 * 🏄 Also loves surfing
