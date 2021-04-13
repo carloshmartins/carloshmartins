@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+<p align="left">
+<a href="https://www.linkedin.com/in/carloshenriquemartins/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<a href="https://twitter.com/ocaiquemartins">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a>
+</p>
+
+* 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/)
+* 🌎 Currently at [Globo](https://github.com/globoi)
+* 📱 Exodia: Making an iOS app which consist of "An IMDB for Anime, Music, Cinema & TV Shows"
+* 💻 Loves publishing [open source software on GitHub](https://github.com/TimOliver?tab=repositories&type=source).
+* 🇧🇷 From [Rio de Janeiro]
+* 🎮 Loves playing games.
+* 🏄 Also loves surfing
 
 ### - ⚡ My history:
 First of all, I love writing Code.
@@ -23,16 +37,6 @@ Productivity:
 View-Code -> https://github.com/carloshmartins/CHViewCodable
 
 Coordinator Pattern -> https://github.com/carloshmartins/CHCoordinator
-
-### - 🧱 I’m currently building:
-
-📱 Exodia:
-
-iOS app which consist of "An IMDB for Anime, Music, Cinema & Movies"
-
-Release Date:
-
-- On July in App Store
 
 ### - 📫 How to reach me:
 email: juliaomartinsch@gmail.com 
