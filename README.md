@@ -22,10 +22,13 @@ I'm part of the team ahead of Globo's video player library, present on multiple 
 
 The Player's ever-evolving plugin-based architecture provides a lot of opportunities to hone key software development skills and learn about video streaming's inner workings.
 
-### - 🌱 I’m currently learning: 
+### - 🌱 I’m currently learning and Developing: 
 
 Software Engineering:
-- Data Structure & Algorithm https://github.com/carloshmartins/Swift-Data-Structure-Algorithm
+- [Data Structure & Algorithm](https://github.com/carloshmartins/Swift-Data-Structure-Algorithm)
+
+Apps:
+- [Orwell](https://github.com/carloshmartins/Orwell)
 
 ### - 🕹 My SPM projects:
 
