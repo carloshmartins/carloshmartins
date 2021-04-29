@@ -9,7 +9,6 @@
 
 * 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/)
 * 🌎 Currently at [Globo](https://github.com/globoi)
-* 📱 Exodia: Making an iOS app which consist of "An IMDB for Anime, Music, Cinema & TV Shows"
 * 💻 Loves publishing [open source software on GitHub]. You can watch below.
 * 🇧🇷 From [Rio de Janeiro]
 * 🎮 Loves playing games.
@@ -28,7 +27,21 @@ Software Engineering:
 - [Data Structure & Algorithm](https://github.com/carloshmartins/Swift-Data-Structure-Algorithm)
 
 Apps:
+
+MacOS
+
+Status: Developing
 - [Orwell](https://github.com/carloshmartins/Orwell)
+
+MacOS + WatchOS
+
+Status: Planning
+- [PomoCocoa](https://github.com/carloshmartins/Pomococoa)
+
+iOS
+
+Status: Developing
+- [Exodia] - "An curated list of Movies, TV Shows & Anime"
 
 ### - 🕹 My SPM projects:
 
