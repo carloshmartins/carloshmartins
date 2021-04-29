@@ -41,7 +41,7 @@ Status: Planning
 iOS
 
 Status: Developing
-- [Exodia] - "An curated list of Movies, TV Shows & Anime"
+- Exodia - "An curated list of Movies, TV Shows & Anime"
 
 ### - 🕹 My SPM projects:
 
