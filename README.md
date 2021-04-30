@@ -38,11 +38,6 @@ MacOS + WatchOS
 Status: Planning
 - [PomoCocoa](https://github.com/carloshmartins/Pomococoa)
 
-iOS
-
-Status: Developing
-- Exodia - "An curated list of Movies, TV Shows & Anime"
-
 ### - 🕹 My SPM projects:
 
 Utilities:
