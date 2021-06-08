@@ -8,23 +8,11 @@
 </p>
 
 * 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/)
-* 🌎 Currently at [Globo](https://github.com/globoi)
+* 🌎 Currently at [MyTime](https://www.mytime.com)
 * 💻 Loves publishing [open source software on GitHub]. You can watch below.
 * 🇧🇷 From [Rio de Janeiro]
-* 🎮 Loves playing games.
-* 🏄 Also loves surfing
-
-### - ⚡ My history:
-First of all, I love writing Code.
-
-I'm part of the team ahead of Globo's video player library, present on multiple platforms: Android, iOS, Android TV, tvOS, Web, and Roku. It is most notably used by Globoplay, which is the Brazilian video streaming app with the largest number of subscribers.
-
-The Player's ever-evolving plugin-based architecture provides a lot of opportunities to hone key software development skills and learn about video streaming's inner workings.
 
 ### - 🌱 I’m currently learning and Developing: 
-
-Software Engineering:
-- [Data Structure & Algorithm](https://github.com/carloshmartins/Swift-Data-Structure-Algorithm)
 
 Apps:
 
@@ -33,14 +21,10 @@ MacOS
 Status: Developing
 - [Orwell](https://github.com/carloshmartins/Orwell)
 
-MacOS + WatchOS
-
-Status: Planning
-- [PomoCocoa](https://github.com/carloshmartins/Pomococoa)
-
 ### - 🕹 My SPM projects:
 
 Utilities:
+
 https://github.com/carloshmartins/CHUtilities
 
 Productivity:
