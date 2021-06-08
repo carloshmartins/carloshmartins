@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a>
 </p>
 
-* 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/)
+* 📱 Mobile Software engineer
 * 🌎 Currently at [MyTime](https://www.mytime.com)
 * 💻 Loves publishing [open source software on GitHub]. You can watch below.
 * 🇧🇷 From [Rio de Janeiro]
