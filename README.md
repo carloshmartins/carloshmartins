@@ -12,14 +12,6 @@
 * 💻 Loves publishing [open source software on GitHub]. You can watch below.
 * 🇧🇷 From [Rio de Janeiro]
 
-### - 🌱 I’m currently learning and Developing: 
-
-Apps:
-
-MacOS
-
-Status: Developing
-- [Orwell](https://github.com/carloshmartins/Orwell)
 
 ### - 🕹 My SPM projects:
 
