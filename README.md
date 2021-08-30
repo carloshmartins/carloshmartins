@@ -12,18 +12,5 @@
 * 💻 Loves publishing [open source software on GitHub]. You can watch below.
 * 🇧🇷 From [Rio de Janeiro]
 
-
-### - 🕹 My SPM projects:
-
-Utilities:
-
-https://github.com/carloshmartins/CHUtilities
-
-Productivity:
-
-View-Code -> https://github.com/carloshmartins/CHViewCodable
-
-Coordinator Pattern -> https://github.com/carloshmartins/CHCoordinator
-
 ### - 📫 How to reach me:
 email: juliaomartinsch@gmail.com 
