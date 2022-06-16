@@ -8,7 +8,6 @@
 </p>
 
 * 📱 Mobile Software engineer
-* 🌎 Currently at [MyTime](https://www.mytime.com)
 * 💻 Loves publishing [open source software on GitHub]. You can watch below.
 * 🇧🇷 From [Rio de Janeiro]
 
