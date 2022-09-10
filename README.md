@@ -9,7 +9,7 @@
 
 * 📱 Mobile Software engineer
 * 💻 Loves publishing [open source software on GitHub]. You can watch below.
-* 🇧🇷 From [Rio de Janeiro]
+* From 🇧🇷 living in 🇳🇱
 
 ### - 📫 How to reach me:
 email: juliaomartinsch@gmail.com 
