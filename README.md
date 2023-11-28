@@ -8,7 +8,6 @@
 </p>
 
 * 📱 Mobile Software engineer
-* 💻 Loves publishing [open source software on GitHub]. You can watch below.
 * From 🇧🇷 living in 🇳🇱
 
 ### - 📫 How to reach me:
